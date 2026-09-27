@@ -1,5 +1,7 @@
 # AI Job Scam Detection System
-[Live Demo](https://your-project-url.com)
+
+[Live Demo](http://localhost:5173/)
+
 ## Key Features
 - Job scam prediction
 - Fraud probability
