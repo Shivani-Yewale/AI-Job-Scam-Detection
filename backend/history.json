@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Data Entry Operato",
+        "result": "Suspicious / Fraudulent Job",
+        "risk_level": "High",
+        "fraud_probability": 76.14,
+        "legitimate_probability": 23.86,
+        "reasons": [
+            "Job description contains very little information",
+            "Job requirements are too vague or incomplete"
+        ],
+        "timestamp": "2026-09-14 23:14:58"
+    },
+    {
+        "title": "Data Entry Operato",
+        "result": "Suspicious / Fraudulent Job",
+        "risk_level": "High",
+        "fraud_probability": 76.14,
+        "legitimate_probability": 23.86,
+        "reasons": [
+            "Job description contains very little information",
+            "Job requirements are too vague or incomplete"
+        ],
+        "timestamp": "2026-09-14 23:15:04"
+    },
+    {
+        "title": "Data Entry Operator",
+        "result": "Suspicious / Fraudulent Job",
+        "risk_level": "High",
+        "fraud_probability": 98.08,
+        "legitimate_probability": 1.92,
+        "reasons": [
+            "Job asks for a registration fee",
+            "Job claims no interview is required",
+            "Job claims no experience is required",
+            "Job contains an unusually high earning claim",
+            "Job uses a suspicious work-from-home earning claim",
+            "Company profile is missing or unclear"
+        ],
+        "timestamp": "2026-09-26 22:25:19"
+    },
+    {
+        "title": "DATA ENTRY OPERATOR",
+        "result": "Suspicious / Fraudulent Job",
+        "risk_level": "High",
+        "fraud_probability": 84.7,
+        "legitimate_probability": 15.3,
+        "reasons": [
+            "Company profile is missing or unclear",
+            "Job description contains very little information"
+        ],
+        "timestamp": "2026-09-26 22:29:23"
+    },
+    {
+        "title": "Software Developer",
+        "result": "Likely Legitimate Job",
+        "risk_level": "Low",
+        "fraud_probability": 6.94,
+        "legitimate_probability": 93.06,
+        "reasons": [
+            "No obvious rule-based scam indicators were detected"
+        ],
+        "timestamp": "2026-09-27 19:28:59"
+    }
+]
